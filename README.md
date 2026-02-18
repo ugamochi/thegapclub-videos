@@ -11,6 +11,11 @@ This repository hosts the video files for The Gap Club website.
 | `testimonial-2.mp4` | Testimonial circle video 2 |
 | `testimonial-3.mp4` | Testimonial circle video 3 |
 | `testimonial-4.mp4` | Testimonial circle video 4 |
+| `testimonial-5.mp4` | Testimonial circle video 5 |
+| `testimonial-6.mp4` | Testimonial circle video 6 |
+| `testimonial-7.mp4` | Testimonial circle video 7 |
+| `testimonial-8.mp4` | Testimonial circle video 8 |
+| `testimonial-9.mp4` | Testimonial circle video 9 |
 
 ## How to Update Videos
 
@@ -28,7 +33,7 @@ This repository hosts the video files for The Gap Club website.
 
 ### Add a New Testimonial Video
 
-1. Name it `testimonial-5.mp4` (or the next number)
+1. Name it `testimonial-10.mp4` (or the next number)
 2. Upload it to the `videos` folder
 3. Contact your developer to add it to the website
 
